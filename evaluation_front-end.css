@@ -4,16 +4,11 @@ header{
     height:900px;
     margin: auto;
     color: aliceblue;
+    
 
 }
 .header{
    text-align: center;
-}
-.input{
-    border: solid;
-    
-    
- 
 }
 button{
     background-color: rgb(4, 204, 4);
@@ -33,7 +28,7 @@ max-width: 1720px;
 img{
     width: 50px;
 }
+
 .mb-3{
     margin-left: 250px;
-    
 }
