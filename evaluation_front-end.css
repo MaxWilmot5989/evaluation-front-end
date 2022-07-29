@@ -11,8 +11,7 @@ header{
 }
 .input{
     border: solid;
-    position:absolute;
-    bottom: 0;
+    
     
  
 }
@@ -20,7 +19,21 @@ button{
     background-color: rgb(4, 204, 4);
     color: aliceblue;
 }
-
+footer{
+    text-align: center;
+    
+}
 .footer{
     width: 50px;
+
+}
+body{
+max-width: 1720px;
+}
+img{
+    width: 50px;
+}
+.mb-3{
+    margin-left: 250px;
+    
 }
