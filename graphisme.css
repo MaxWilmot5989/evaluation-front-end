@@ -1,0 +1,26 @@
+header{
+    background-image: url("./Photos/background.jpg");
+    width: 1720px;
+    height:900px;
+    margin: auto;
+    color: aliceblue;
+
+}
+.header{
+   text-align: center;
+}
+.input{
+    border: solid;
+    position:absolute;
+    bottom: 0;
+    
+ 
+}
+button{
+    background-color: rgb(4, 204, 4);
+    color: aliceblue;
+}
+
+.footer{
+    width: 50px;
+}
